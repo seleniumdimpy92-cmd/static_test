@@ -2,7 +2,7 @@
 
 Java + TestNG + Selenium + RestAssured sample automation framework.
 
-## Run locally.
+## Run locally
 - Java 11+, Maven
 - `mvn clean test -Denv=local -DbrowserMode=headless`
 
