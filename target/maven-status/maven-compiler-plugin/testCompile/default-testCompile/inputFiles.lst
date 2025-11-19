@@ -1,0 +1,10 @@
+/Users/I069208/Documents/GitHub/Selenium_auto/src/test/java/com/example/tests/api/base/ApiBase.java
+/Users/I069208/Documents/GitHub/Selenium_auto/src/test/java/com/example/tests/api/tests/ApiHappyPathTest.java
+/Users/I069208/Documents/GitHub/Selenium_auto/src/test/java/com/example/tests/api/tests/ApiNegativeTest.java
+/Users/I069208/Documents/GitHub/Selenium_auto/src/test/java/com/example/tests/ui/base/BaseTest.java
+/Users/I069208/Documents/GitHub/Selenium_auto/src/test/java/com/example/tests/ui/base/TestListener.java
+/Users/I069208/Documents/GitHub/Selenium_auto/src/test/java/com/example/tests/ui/pages/LoginPage.java
+/Users/I069208/Documents/GitHub/Selenium_auto/src/test/java/com/example/tests/ui/tests/LoginDataDrivenTest.java
+/Users/I069208/Documents/GitHub/Selenium_auto/src/test/java/com/example/tests/ui/tests/LoginFailureTest.java
+/Users/I069208/Documents/GitHub/Selenium_auto/src/test/java/com/example/tests/ui/tests/LoginSuccessTest.java
+/Users/I069208/Documents/GitHub/Selenium_auto/src/test/java/com/example/utils/CsvDataProvider.java

@@ -1,0 +1,3 @@
+com/example/framework/WebDriverFactory.class
+com/example/reporting/ExtentManager.class
+com/example/utils/ScreenshotUtil.class
